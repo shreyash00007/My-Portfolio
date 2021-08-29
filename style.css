@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(Img/Img\ Bg.png);
+    background-image: linear-gradient(to bottom right, rgb(2, 2, 34), rgb(43, 3, 189), rgb(0, 183, 255));
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
