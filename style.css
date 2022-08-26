@@ -14,8 +14,9 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: black;
+    background-color: #020534;
     min-height: 8vh;
+    
 }
 .Logo{
     color: white;
@@ -52,8 +53,7 @@ h2{
 
 }
 .btn{
-    margin-left: 730px;
-    margin-top: 50px;
+    margin-top: 100px;
     background-color: rgb(231, 54, 92);
     color: white;
     padding: 15px 30px;
@@ -76,56 +76,24 @@ p{
     font-size: 30px;
 }
 .home{
-    padding-top: 270px;
-    padding-bottom: 200px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    text-align: center;
 }
 .about{
     padding-top: 150px;
-    padding-bottom: 50px;
+    padding-bottom: 150px;
+    text-align: center;
 }
 .work{
     padding-top: 150px;
-    padding-bottom: 50px;
+    padding-bottom: 150px;
+    text-align: center;
 }
 .contact{
+    text-align: center;
     padding-top: 150px;
     color: white;
     padding-bottom: 0%;
     font-family: 'Roboto Thin', sans-serif;
 }
-.btn2{
-    margin-left: 300px;
-    margin-top: 50px;
-    background-color: rgb(231, 54, 92);
-    color: white;
-    padding: 15px 30px;
-    font-size: 20px;
-    border-radius: 15px;
-    border: none;
-    cursor: pointer;
-    text-align: center;
-    font-family: 'Roboto Thin', sans-serif;
-}
-
-.btn2:hover{
-    background-color: rgb(0, 201, 252);
- }
-.btn3{
-    margin-left: 720px;
-    margin-top: 50px;
-    background-color: rgb(231, 54, 92);
-    color: white;
-    padding: 15px 30px;
-    font-size: 20px;
-    border-radius: 15px;
-    border: none;
-    cursor: pointer;
-    text-align: center;
-    font-family: 'Roboto Thin', sans-serif;
-}
-.btn3:hover{
-    background-color: rgb(0, 201, 252);
- }
- @media only screen and (min-width: 768) {
-
- }
